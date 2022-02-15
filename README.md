@@ -1,5 +1,8 @@
-<h1> Hello there, I'm Kredili Ádám 👋 ( ͡° ͜ʖ ͡°)	</h1>
+<h1 align="center"> Hello there, my name is Kredili Ádám 👋 ( ͡° ͜ʖ ͡°)	</h1>
 
+<p align="center">
+    <img src="https://tenor.com/view/jojo-greeting-smile-star-platinum-hi-gif-17297758.gif" width="100" height="100" />
+</p>
 
 <p align="center">
     <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kredam&show_icons=true&theme=tokyonight" />
