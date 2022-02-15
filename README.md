@@ -17,7 +17,7 @@
   </p>
 </p>
 
-<div style="margin-top:30px;">
+<div>
   <p align="center" >
       <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kredam&layout=compact" />
     <p align="left">
@@ -27,7 +27,7 @@
     </p>
   </p>
 </div>
-<div style="margin-top:30px;">
+<div>
     <p align="left">
         <h3>UI frameworks/libraries</h3>
         <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" />
@@ -36,7 +36,7 @@
     </p>
   </p>
 </div>
-<div style="margin-top:30px;">
+<div>
     <p align="left">
         <h3>Database</h3>
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
