@@ -4,7 +4,7 @@
 <p align="center">
     <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kredam&show_icons=true&theme=tokyonight" />
   <p align="left">
-      <p align="left">Full stack web development</p>
+      <p align="left"> ℹ Full stack web development</p>
       <p>💬 Contact me at:  https://portfolio-kredam.vercel.app/ </p>
       <p>⚡ Fun fact --> https://myanimelist.net/animelist/Kredam </p>
       <h3>Back-end frameworks</h3>
@@ -42,12 +42,12 @@
   </p>
 </div>
 
+Languages | <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> | <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">  | 
+--- | --- | --- | --- |--- 
 
+Hosting | <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />  |
+--- |--- 
 <div align="center">
-    <p align="left">
-            <h3>Hosting</h3>
-            <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> 
-  </p>
     <h3>Others</h3>
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
@@ -64,7 +64,8 @@
   </p>
 </div>
 
-### ⚡ Check out my Pinned Repositories
+### Check out my Pinned Repositories ⤵
+
 
 
 <!-- <div align="center" >
