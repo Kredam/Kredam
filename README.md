@@ -19,7 +19,6 @@
   </p>
 </p>
 &nbsp;
-<div>
   <p align="center" >
       <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kredam&layout=compact" />
     <p align="left">
@@ -28,7 +27,6 @@
         <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     </p>
   </p>
-</div>
 &nbsp;
 <div>
     <p align="left">
@@ -78,23 +76,22 @@ Hosting | <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-
 &nbsp;
 
 ### Check out my Pinned Repositories ⤵
-
-<!-- <div align="center" >
-  <div>く__,.ヘヽ.　　　　/　,ー､ 〉</div>
-　　　　　<div>＼ ', !-─‐-i　/　/´</div>
-　　　 　<p> ／｀ｰ'　　　 L/／｀ヽ､</p>
-　　 　<p> /　 ／,　 /|　 ,　 ,　　　 ',</p>
-　　<p>　ｲ 　/ /-‐/　ｉ　L_ ﾊ ヽ!　 i</p>
-　　　<p> ﾚ ﾍ 7ｲ｀ﾄ　 ﾚ'ｧ-ﾄ､!ハ|　 |</p>
-　　　<p>　 !,/7 '0'　　 ´0iソ| 　      |　　　</p>
-　　　　<p> |.从"　　_　　 ,,,, / |./ 　 |</p>
-　　　　<p> ﾚ'| i＞.､,,__　_,.イ / 　.i 　|</p>
-　　　　　<p> ﾚ'| | / k_７_/ﾚ'ヽ,　ﾊ.　|</p>
-　　　　<p>　　 | |/i 〈|/　 i　,.ﾍ |　i　|</p>
-　　　　<p>　　.|/ /　ｉ： 　 ﾍ!　　＼　|</p>
-　　　 <p>　 　 kヽ>､ﾊ 　 _,.ﾍ､ 　 /､!</p>
-　　　　<p>　　 !'〈//｀Ｔ´', ＼ ｀'7'ｰr'</p>
-　　　　<p>　　 ﾚ'ヽL__|___i,___,ンﾚ|ノ</p>
-　　　　<p>　 　　　ﾄ-,/　|___./</p>
-　　　　<p>　 　　　'ｰ'　　!_,.:</p>
-</div> -->
+```
+  く__,.ヘヽ.　　　　/　,ー､ 〉
+　　　　　<＼ ', !-─‐-i　/　/´
+　　　  ／｀ｰ'　　　 L/／｀ヽ､
+　　  /　 ／,　 /|　 ,　 ,　　　 ',
+　　ｲ 　/ /-‐/　ｉ　L_ ﾊ ヽ!　 i
+   　　 ﾚ ﾍ 7ｲ｀ﾄ　 ﾚ'ｧ-ﾄ､!ハ|　 |
+  　　　 !,/7 '0'　　 ´0iソ| 　      |　　　
+　  　　 |.从"　　_　　 ,,,, / |./ 　 |
+　　　　<p> ﾚ'| i＞.､,,__　_,.イ / 　.i 　|
+　　　　 ﾚ'| | / k_７_/ﾚ'ヽ,　ﾊ.　|
+　　　　　 | |/i 〈|/　 i　,.ﾍ |　i　|</p>
+　　　　　.|/ /　ｉ： 　 ﾍ!　　＼　|
+　　　　 　 kヽ>､ﾊ 　 _,.ﾍ､ 　 /､!
+　　　　　 !'〈//｀Ｔ´', ＼ ｀'7'ｰr'
+　　　ﾚ'ヽL__|___i,___,ンﾚ|ノ
+　　　　 　　　ﾄ-,/　|___./
+　　　　　　　'ｰ'　　!_,.:
+     ```
