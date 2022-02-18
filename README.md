@@ -1,32 +1,34 @@
 
 <p align="center">
-    <img align="left" src="https://tenor.com/view/jojo-greeting-smile-star-platinum-hi-gif-17297758.gif" width="75" height="75" />
+    <img align="left" src="https://tenor.com/view/jojo-greeting-smile-star-platinum-hi-gif-17297758.gif" width="55" height="55" />
   <p align="left">
       <h1 align="left">  Hello there, my name is Kredili Ádám 👋</h1>
   </p>
 </p>
 &nbsp;
-<p align="center">
-    <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=Kredam&show_icons=true&theme=tokyonight" />
-  <p align="left">
-      <p align="left"> ℹ️ Full stack web development</p>
+<div align="center">
+      <p> ℹ️ Full stack web development</p>
       <p>💬 Contact me at:  https://portfolio-kredam.vercel.app/ </p>
-      &nbsp;
-      <h3>Back-end frameworks</h3>
-      <img align="left" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  </p>
+</div>
+&nbsp;
+<p align="center">
+    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kredam&layout=compact" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Kredam&show_icons=true&theme=tokyonight" />
 </p>
 &nbsp;
-  <p align="center" >
-      <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kredam&layout=compact" />
+<p align="center" >
+    <p align="right">
+      <h3>Back-end frameworks</h3>
+      <img  src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+    </p>
     <p align="left">
         <h3>Front-end frameworks</h3>
-        <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+        <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
         <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
     </p>
-  </p>
+</p>
 &nbsp;
 <div>
     <p align="left">
@@ -75,23 +77,4 @@ Hosting | <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-
 
 &nbsp;
 
-### Check out my Pinned Repositories ⤵
-```
-  く__,.ヘヽ.　　　　/　,ー､ 〉
-　　　　　<＼ ', !-─‐-i　/　/´
-　　　  ／｀ｰ'　　　 L/／｀ヽ､
-　　  /　 ／,　 /|　 ,　 ,　　　 ',
-　　ｲ 　/ /-‐/　ｉ　L_ ﾊ ヽ!　 i
-   　　 ﾚ ﾍ 7ｲ｀ﾄ　 ﾚ'ｧ-ﾄ､!ハ|　 |
-  　　　 !,/7 '0'　　 ´0iソ| 　      |　　　
-　  　　 |.从"　　_　　 ,,,, / |./ 　 |
-　　　　<p> ﾚ'| i＞.､,,__　_,.イ / 　.i 　|
-　　　　 ﾚ'| | / k_７_/ﾚ'ヽ,　ﾊ.　|
-　　　　　 | |/i 〈|/　 i　,.ﾍ |　i　|</p>
-　　　　　.|/ /　ｉ： 　 ﾍ!　　＼　|
-　　　　 　 kヽ>､ﾊ 　 _,.ﾍ､ 　 /､!
-　　　　　 !'〈//｀Ｔ´', ＼ ｀'7'ｰr'
-　　　ﾚ'ヽL__|___i,___,ンﾚ|ノ
-　　　　 　　　ﾄ-,/　|___./
-　　　　　　　'ｰ'　　!_,.:
-     ```
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21n52mk7iklcht7wr6p5g3zgi&cover_image=true&theme=novatorem&bar_color=4c1010&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
