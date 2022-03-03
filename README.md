@@ -10,11 +10,8 @@
       <p> ℹ️ Full stack web development</p>
       <p>💬 Contact me at:  https://portfolio-kredam.vercel.app/ </p>
 </div>
-&nbsp;
-<p align="center">
-    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kredam&layout=compact" />
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Kredam&show_icons=true&theme=tokyonight" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kredam&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kredam&show_icons=true&theme=tokyonight" />
 &nbsp;
 <p align="center" >
     <p align="right">
