@@ -2,7 +2,7 @@
 <p align="center">
     <img align="left" src="https://tenor.com/view/jojo-greeting-smile-star-platinum-hi-gif-17297758.gif" width="55" height="55" />
   <p align="left">
-      <h1 align="left">  Hello there, my name is Kredili Ádám 👋</h1>
+      <h1 align="left">  Hello there 👋</h1>
   </p>
 </p>
 &nbsp;
