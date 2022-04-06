@@ -67,7 +67,7 @@ Hosting | <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://www.countryflags.com/wp-content/uploads/japan-flag-png-xl.png" height="30px" width="45px"/>
-    <img src"https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
+    <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
 </p>
 </div>
 
