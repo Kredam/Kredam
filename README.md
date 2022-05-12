@@ -13,19 +13,21 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kredam&layout=compact" />
     <img src="https://github-readme-stats.vercel.app/api?username=Kredam&show_icons=true&theme=tokyonight" />
 &nbsp;
-<p align="center" >
-    <p align="right">
+<p>
       <h3>Back-end frameworks</h3>
-      <img  src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-    </p>
-    <p align="left">
-        <h3>Front-end frameworks</h3>
-        <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-    </p>
+            <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+            <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+      <h3>Front-end frameworks</h3>
+            <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
+            <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+            <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
+<p>
+            <img src="https://github-readme-stats.vercel.app/api/pin?username=Kredam&repo=formula1-blogger&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+             <img align="right" src="https://github-readme-stats.vercel.app/api/pin?username=Kredam&repo=MyRoom&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+</p>
+
 &nbsp;
 <div>
     <p align="left">
@@ -64,7 +66,6 @@ Hosting | <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-
 <div align="center">
   <h2>🌱 I’m currently learning:</h2>
   <p align="left">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://www.countryflags.com/wp-content/uploads/japan-flag-png-xl.png" height="30px" width="45px"/>
     <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
